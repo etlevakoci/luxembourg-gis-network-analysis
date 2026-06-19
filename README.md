@@ -11,10 +11,3 @@ This repository hosts a complete ArcGIS Desktop project bundled as a **Map Packa
 * **Accessibility Assessment:** Quantified coverage gaps by overlaying local demographic layers with service travel buffers.
 
 ---
-
-## 📁 Project Structure
-
-```text
-├── Luxembourg_Network_Analysis.mpk  # Complete ArcGIS Map Package (Data + Layout)
-├── Outputs/                         # Exported high-resolution PDF/PNG maps
-└── README.md                        # Project documentation
